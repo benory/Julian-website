@@ -1,0 +1,7 @@
+title: Julian Ory
+url: "https://julianory.com"
+baseurl: ""
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
